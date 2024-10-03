@@ -2,7 +2,7 @@ export const navItems = [
     { name: "Inicio", link: "#home" },
     { name: "Experiencia", link: "#experience" },
     { name: "Projectos", link: "#projects" },
-    { name: "Approach", link: "#approach" },
+    { name: "Nosotros", link: "#approach" },
     { name: "Galleria", link: "#gallery" },
 ];
 
