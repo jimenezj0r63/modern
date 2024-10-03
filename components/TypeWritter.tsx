@@ -15,7 +15,7 @@ import { TypewriterEffectSmooth } from "../components/ui/TypewriterEffect";
         text: "con",
         },
         {
-        text: "nosotros.",
+        text: "ALPHATECH.",
         className: "text-violet-500",
         },
     ];
