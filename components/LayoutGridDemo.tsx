@@ -7,7 +7,7 @@ export function LayoutGridDemo() {
         <section id="gallery" className="h-screen py-20 w-full">
             <div>
                 <h1 className="heading text-white my-16">
-                    <span>Galleria</span>
+                    <span>Galeria</span>
                 </h1>
             </div>
             <LayoutGrid cards={cards} />
