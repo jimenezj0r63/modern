@@ -36,10 +36,10 @@ const Hero = () => {
 
                     {/** Magic Button */}
                     <div className='mt-9'>
-                        <a href="#about">
+                        <a href="https://wa.me/529711018065">
                         <MagicButton 
                         icon={<FaLocationCrosshairs />}
-                        title='Show My Skills'
+                        title='Contactanos'
                         position='right'
                         />
                         </a>
